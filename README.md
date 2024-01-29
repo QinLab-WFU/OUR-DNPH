@@ -24,7 +24,7 @@ After the dataset has been prepared, we could run the follow command to train.
 > python main.py --is-train --dataset coco --caption-file caption.mat --index-file index.mat --label-file label.mat --lr 0.001 --output-dim 64 --save-dir ./result/coco/64 --clip-path ./ViT-B-32.pt --batch-size 128 --num-classes 80
 
 
-### Citation
+## Citation
 @article{10.1145/3643639,  
 author = {Huo, Yadong and Qin, Qibing and Dai, Jiangyan and Zhang, Wenfeng and Huang, Lei and Wang, Chengduan},  
 title = {Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constraint for Cross-modal Retrieval},  
@@ -33,5 +33,5 @@ journal = {ACM Transactions on Multimedia Computing, Communications, and Applica
 doi = {10.1145/3643639}}
 
 
-### Acknowledgements
+## Acknowledgements
 [DCHMT](https://github.com/kalenforn/DCHMT)
