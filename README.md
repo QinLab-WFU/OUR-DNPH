@@ -31,3 +31,7 @@ title = {Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constra
 year = {2024},  
 journal = {ACM Transactions on Multimedia Computing, Communications, and Applications},  
 doi = {10.1145/3643639}}
+
+
+### Acknowledgements
+[DCHMT](https://github.com/kalenforn/DCHMT)
