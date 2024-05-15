@@ -26,11 +26,16 @@ After the dataset has been prepared, we could run the follow command to train.
 
 ## Citation
 @article{10.1145/3643639,  
-author = {Huo, Yadong and Qin, Qibing and Dai, Jiangyan and Zhang, Wenfeng and Huang, Lei and Wang, Chengduan},  
+author = {Huo, Yadong and Qibing, Qin and Dai, Jiangyan and Zhang, Wenfeng and Huang, Lei and Wang, Chengduan},  
 title = {Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constraint for Cross-modal Retrieval},  
 year = {2024},  
+volume = {20},  
+number = {6},   
 journal = {ACM Transactions on Multimedia Computing, Communications, and Applications},  
-doi = {10.1145/3643639}}
+articleno = {169},  
+numpages = {23},  
+doi = {10.1145/3643639},  
+}
 
 
 ## Acknowledgements
